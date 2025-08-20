@@ -1,0 +1,26 @@
+***House Prediction Project***
+
+----
+
+1. Project Goal:
+
+----
+
+The purpose of this model is to build a machine learning model that predicts the price of houses on the basis of its features. I use
+Linear Regression as a baseline model to predict the price of house.
+
+----
+
+2. Project details: 
+
+---
+
+The project contains three files
+a) HouseData.csv
+	This file contain the data on model is trained.
+b) data_description.txt
+	This file contains the details of every features used in dataset.
+c) prediction.ipynb
+	This is the code of my model.
+
+----
